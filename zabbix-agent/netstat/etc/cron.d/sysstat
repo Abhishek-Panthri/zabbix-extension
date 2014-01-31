@@ -1,0 +1,3 @@
+# statystyka netstat do cache
+* * * * * root /usr/sbin/netstat-cache-fetch
+

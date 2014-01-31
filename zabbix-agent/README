@@ -1,1 +1,13 @@
-INFORMACJE
+Short information:
+
+Folder contains extension files for Zabbix Agent
+  
+netstat - Allow monitor linux infromation from netstat. 
+ Clasic method for data gathering for zabbix for every item check causes slowdown system, 
+ because netstat is slow. 
+ Extra script in python allow cache this data from netstat i file. 
+ Cron extecute script every minute only once. 
+ Zabbix query Zabbix Agent much offten than one in a minute because can query only one item per query.
+ 
+
+
