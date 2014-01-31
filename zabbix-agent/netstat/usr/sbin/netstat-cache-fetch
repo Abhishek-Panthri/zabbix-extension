@@ -1,0 +1,3 @@
+#!/bin/bash
+netstat -ntp > /tmp/netstat-fetch
+python /usr/sbin/netstat-cache.py>/tmp/netstat-cache 
