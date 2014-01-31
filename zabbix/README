@@ -1,0 +1,9 @@
+Short information:
+
+Folder contains files for Zabbix
+  
+template - files with template for different components 
+ netstat - first prepare your agent look at /zabbix-agent/netstat 
+  
+
+ 
