@@ -10,4 +10,4 @@ netstat - Allow monitor linux infromation from netstat.
  Zabbix query Zabbix Agent much offten than one in a minute because can query only one item per query.
   
 
-
+ 
